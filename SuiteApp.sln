@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp1", "DemoApp1\DemoApp1.csproj", "{542B5B13-CA58-40DA-9459-86A114C7F803}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuiteAppAttrib", "SuiteAppAttrib\SuiteAppAttrib.csproj", "{7AD182BC-EA7A-410C-9869-2D26ABECC76E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuiteAppContainer", "SuiteAppContainer\SuiteAppContainer.csproj", "{05EC0804-96D6-4B4A-AF64-986DDA1A70F0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp2", "DemoApp2\DemoApp2.csproj", "{41F93B47-074A-41BD-A8F6-5D8C1E2F619E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = SuiteAppContainer\\SuiteAppContainer.csproj
+		SccProjectName0 = \u0022$/Projects/SuiteApp/SuiteAppContainer\u0022,\u0020PJMAAAAA
+		SccLocalPath0 = SuiteAppContainer
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{542B5B13-CA58-40DA-9459-86A114C7F803}.Debug.ActiveCfg = Debug|.NET
+		{542B5B13-CA58-40DA-9459-86A114C7F803}.Debug.Build.0 = Debug|.NET
+		{542B5B13-CA58-40DA-9459-86A114C7F803}.Release.ActiveCfg = Release|.NET
+		{542B5B13-CA58-40DA-9459-86A114C7F803}.Release.Build.0 = Release|.NET
+		{7AD182BC-EA7A-410C-9869-2D26ABECC76E}.Debug.ActiveCfg = Debug|.NET
+		{7AD182BC-EA7A-410C-9869-2D26ABECC76E}.Debug.Build.0 = Debug|.NET
+		{7AD182BC-EA7A-410C-9869-2D26ABECC76E}.Release.ActiveCfg = Release|.NET
+		{7AD182BC-EA7A-410C-9869-2D26ABECC76E}.Release.Build.0 = Release|.NET
+		{05EC0804-96D6-4B4A-AF64-986DDA1A70F0}.Debug.ActiveCfg = Debug|.NET
+		{05EC0804-96D6-4B4A-AF64-986DDA1A70F0}.Debug.Build.0 = Debug|.NET
+		{05EC0804-96D6-4B4A-AF64-986DDA1A70F0}.Release.ActiveCfg = Release|.NET
+		{05EC0804-96D6-4B4A-AF64-986DDA1A70F0}.Release.Build.0 = Release|.NET
+		{41F93B47-074A-41BD-A8F6-5D8C1E2F619E}.Debug.ActiveCfg = Debug|.NET
+		{41F93B47-074A-41BD-A8F6-5D8C1E2F619E}.Debug.Build.0 = Debug|.NET
+		{41F93B47-074A-41BD-A8F6-5D8C1E2F619E}.Release.ActiveCfg = Release|.NET
+		{41F93B47-074A-41BD-A8F6-5D8C1E2F619E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
